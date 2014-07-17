@@ -21,7 +21,7 @@
 }
 
 .navbar-inverse {
-	background-color: #46c7b0;
+	background-color: #d9534f;
 }
 .navbar-inverse .navbar-header .navbar-brand {
   color: white;
@@ -47,7 +47,7 @@
 /*---- footer ------*/
 
 .footer {
-	background-color: #46c7b0;
+	background-color: #d9534f;
 	padding-top: 40px;
 	padding-bottom: 30px;
 }
@@ -105,7 +105,7 @@
 /*----banner----*/
 
 .banner{
-    background-image: image-url('sf.jpg');
+    background-image: image-url('tools4.jpg');
     height: 680px;
 	margin-top: 0px;
     background-attachment:fixed;
@@ -120,10 +120,15 @@
 	color: white;
 }
 
-.logo {
+.text-logo {
 	text-align: center;
 	margin-left: auto;
 	margin-right: auto;
+	font-size: 95px;
+  	font-family: 'Lobster', cursive;
+  	color: white;
+  	padding-top: 50px;
+  	text-shadow: 2px 2px 2px #666666;
 }
 
 .opening-text {
@@ -136,18 +141,13 @@
 }
 
 .opening-text-name {
-	font-size: 46px;
+	font-size: 55px;
   	font-family: 'Lobster', cursive;
   	padding-left: 10px;
 	padding-right: 10px;
 }
 
-.sub-opening-text {
-	font-size: 25px;
-	text-shadow: 1px 1px 1px #666666;
-	padding-left: 10px;
-	padding-right: 10px;
-}
+
 
 
 /*---- features ------*/
@@ -227,9 +227,9 @@
 
 
 .subscription-section {
-	background-color: #46c7b0;
+	background-color: #d9534f;
 	padding-top: 80px;
-	padding-bottom: 20px;
+	padding-bottom: 80px;
 	font-family: 'Open Sans Condensed', sans-serif;
 	font-size: 30px;
 }
@@ -259,28 +259,6 @@
 	font-size: 18px;
 }
 
-.beta-submissions {
-	padding-top: 50px;
-	text-align: center !important;
-	vertical-align: middle;
-}
-
-.beta-submissions h1 {
-	margin-top: 22px;
-	color: white;
-	font-family: 'Open Sans Condensed', sans-serif;
-	font-size: 20px;
-	font-weight: bold;
-}
-
-.beta-submissions h3 {
-	margin-top: 18px;
-	color: white;
-	font-family: 'Open Sans Condensed', sans-serif;
-	font-size: 20px;
-	font-weight: bold;
-
-}
 
 
 
@@ -338,7 +316,7 @@
 
 .glyphicon {
 	font-size: 120px;
-	color: #46c7b0;
+	color: #d9534f;
 }
 
 /*-- beta submission --*/

@@ -2,7 +2,7 @@ module ApplicationHelper
 
   # Returns the full title on a per-page basis.
   def full_title(page_title)
-    base_title = "Krowdprize"
+    base_title = "Toolmash"
     if page_title.empty?
       base_title
     else
